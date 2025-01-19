@@ -58,11 +58,11 @@ cd project
 Build and Start the Services:
 docker-compose up --build
 
-This will:
-Build Docker images for each microservice.
-Start containers for the signup-service, login-service, and quiz-service.
+//This will:
+//Build Docker images for each microservice.
+//Start containers for the signup-service, login-service, and quiz-service.
 
-HOW TO ACCESS: 
+//HOW TO ACCESS: 
 Signup Page: http://localhost:8080
 Login Page: http://localhost:8081
 Quiz Page: http://localhost:8082
